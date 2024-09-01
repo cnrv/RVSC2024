@@ -6,7 +6,7 @@ Repo for uploading slides and other materials of RISC-V Summit China 2024
 
 |Time|Duration|Title|Speakers|Video|Slides|
 |:---|:-------|:----|:-------|:----|:-----|
-| 08:30 | 30' | _签到_ |  | TBA | TBA |
+| 08:30 | 30' | _签到_ |  | - | - |
 | 09:00 | 30' | 领导致辞、院士致辞、主席致辞 |  | TBA | TBA |
 | 09:30 | 20' | RISC-V opportunity, innovation, and collaboration igniting adoption | Calista Redmond (CEO, RISC-V International) | TBA | TBA |
 | 09:50 | 20' | RISC-V 正在迅速发展—无处不在 | Prof. Krste Asanović (SiFive 联合创始人兼首席架构师) | TBA | TBA |
@@ -16,7 +16,7 @@ Repo for uploading slides and other materials of RISC-V Summit China 2024
 | 11:10 | 20' | 开启算力新纪元：基于 RISC-V 的开放算力探索与展望 | 高鹏 (厦门算能科技有限公司，高级副总裁) | TBA | TBA |
 | 11:30 | 20' | RISC-V 生态视角下的商业要素必要性与重要性 | 胡振波 (芯来科技创始人) | TBA | TBA |
 | 11:50 | 40' | 圆桌讨论：如何让 RISC-V 企业赚钱？ | 戴伟民 (芯原微電子董事长兼总裁)<br/>武延军 (中国科学院软件所副所长、总工)<br/>孟建熠 (知合计算 CEO)<br/>何宁 (奕斯伟计算高级副总裁、CTO)<br/>孙彦邦 (进迭时空创始人、总裁)<br/>包云岗 (北京开源芯片研究院首席科学家（主持人）) | TBA | TBA |
-| 12:30 | 70' | _午餐、展区_ |  | TBA | TBA |
+| 12:30 | 70' | _午餐、展区_ |  | - | - |
 | 13:40 | 20' | 一分钟 POSTER 报告 |  | TBA | TBA |
 | 14:00 | 20' | RISC-V 赋予技术创新与商业变革新机遇 | 包云岗 (北京开源芯片研究院首席科学家) | TBA | TBA |
 | 14:20 | 20' | 加速打造标杆产品，推动 RISC-V 生态进化 | 孟建熠博士 (RISC-V 工委会会长、知合计算 CEO) | TBA | TBA |
@@ -27,7 +27,7 @@ Repo for uploading slides and other materials of RISC-V Summit China 2024
 | 15:40 | 15' | RISC-V 在数据中心的挑战与机遇 | 刘文进 (赛昉科技高级首席工程师) | TBA | TBA |
 | 15:55 | 15' | Revolutionizing RISC-V adoption: Imagination's Integrated CPU and GPU Solution | Shreyas Derashri (Vice President of Compute, Imagination) | TBA | TBA |
 | 16:10 | 15' | Unified-Compute in RISC-V: Making RISC-V fit for AI/ML | Philipp Tomsich (Chief Technologist & Founder of VRULL) | TBA | TBA |
-| 16:25 | 15' | _茶歇、展区_ |  | TBA | TBA |
+| 16:25 | 15' | _茶歇、展区_ |  | - | - |
 | 16:40 | 20' | “一生一芯”计划——从零开始设计自己的 RISC-V 处理器芯片 | 余子濠 (中国科学院计算技术研究所) | TBA | TBA |
 | 17:00 | 20' | RISC-V 走向数据中心之路 | 席宏海 (元石智算，研发副总经理) | TBA | TBA |
 | 17:20 | 20' | 全球首款 RISC-V 超级 SIM 芯片的技术创新与应用 | 刘梅娟 (芯昇科技有限公司芯片产品总监) | TBA | TBA |
@@ -38,7 +38,7 @@ Repo for uploading slides and other materials of RISC-V Summit China 2024
 
 |Time|Duration|Title|Speakers|Video|Slides|
 |:---|:-------|:----|:-------|:----|:-----|
-| 08:30 | 20' | _签到_ |  | TBA | TBA |
+| 08:30 | 20' | _签到_ |  | - | - |
 | 08:50 | 10' | 发挥标准引领优势，共促产业生态繁荣 | 周萌 (RISC-V 工委会秘书长) | TBA | TBA |
 | 09:00 | 20' | 云数据中心 RISC-V IOMMU 虚拟化的探索与应用 | 刘亚南 (中移（苏州）软件技术有限公司，移动云芯片技术总监) | TBA | TBA |
 | 09:20 | 20' | RISC-V + AI 赋能 AGI 时代新兴应用场景 | 鲁海波 (奕斯伟计算，智能计算事业部总经理) | TBA | TBA |
@@ -50,7 +50,7 @@ Repo for uploading slides and other materials of RISC-V Summit China 2024
 | 11:10 | 10' | Imagination GPU 赋能 RISC-V 产业化落地与生态创新 | 郑魁 (Imagination, 产品市场总监) | TBA | TBA |
 | 11:20 | 20' | Creating Custom RISC-V Processors Using ASIP Design Tools: A Post-Quantum Cryptography Case Study | 毛海雪 (Synopsys, 处理器解决方案资深应用工程师) | TBA | TBA |
 | 11:40 | 20' | RISC-V P Extension Implementation and DSP Application Practice | Dmitry Zakharov (CloudBEAR, LLC) | TBA | TBA |
-| 12:00 | 60' | _午餐、展区_ |  | TBA | TBA |
+| 12:00 | 60' | _午餐、展区_ |  | - | - |
 | 13:00 | 15' | 功能越强，责任逾重 — 充分考虑验证地定制 RISC-V 之“实战指南“ | Julian HU 胡征宇 (Codasip China GM / 科达希普（深圳）有限公司 总经理) | TBA | TBA |
 | 13:15 | 20' | 面向 AI 应用的玄铁扩展指令 | 仇径 (阿里巴巴达摩院 RISC-V 及生态，技术专家) | TBA | TBA |
 | 13:35 | 20' | RISC-V 融合 AI 技术的芯片实践和应用 | 陈俭东 (进迭时空（杭州）科技有限公司，芯片产品总监) | TBA | TBA |
@@ -60,7 +60,7 @@ Repo for uploading slides and other materials of RISC-V Summit China 2024
 | 14:45 | 10' | AI 关键算子 RVV 性能优化 | 舒卓 (芯来科技，嵌入式软件工程师) | TBA | TBA |
 | 14:55 | 15' | Experiences with extending the RISC-V ISA for Matrix/AI | Fan Fujie (Stream Computing, Director of Research) | TBA | TBA |
 | 15:10 | 50' | RISC-V in AI/ML: How can we harness open standards for Innovation and Performance in AI/ML? | Philipp Tomsich (Chief Technologist & Founder of VRULL)<br/>Xie Tao (Peking University Chair Professor, Chief Scientist of Beijing Institute of Open Source Chip)<br/>Bao Yungang (Chief Scientist of Beijing Institute of Open Source Chip)<br/>Mei Di (CEO of Stream Computing)<br/>He Hu (Professor at Tsinghua University)<br/>Wang Lei (Senior vice president of Sophgo)<br/>Mao Yu (CECloud Security General Manager) | TBA | TBA |
-| 16:00 | 15' | _茶歇、展区_ |  | TBA | TBA |
+| 16:00 | 15' | _茶歇、展区_ |  | - | - |
 | 16:15 | 15' | 面向机器学习推理应用的全同态编译器框架 (ANT-ACE) | 肖琳杰 (蚂蚁技术研究院 技术专家) | TBA | TBA |
 | 16:30 | 15' | 面向 RISC-V 异构 AI 芯片的“大编译器”设计和实现 | 伍华林 (兆松科技 联合创始人 & CTO) | TBA | TBA |
 | 16:45 | 20' | UXL 软件栈和 RISC-V 的初步探索 | 张玉珩 (Annita Zhang) (英特尔，首席工程师) | TBA | TBA |
@@ -77,21 +77,21 @@ Repo for uploading slides and other materials of RISC-V Summit China 2024
 
 |Time|Duration|Title|Speakers|Video|Slides|
 |:---|:-------|:----|:-------|:----|:-----|
-| 08:30 | 30' | _签到_ |  | TBA | TBA |
+| 08:30 | 30' | _签到_ |  | - | - |
 | 09:00 | 20' | 香山 RISC-V 服务器 IP 现状和路线图 | 张健 (北京开源芯片研究院，产品经理) | TBA | TBA |
 | 09:20 | 20' | 香山开源处理器昆明湖架构的设计演进 | 唐浩晋 (中国科学院计算技术研究所，计算机科学与技术 研究生二年级) | TBA | TBA |
 | 09:40 | 20' | 香山处理器昆明湖架构向量扩展的设计与演进 | 胡轩 (中国科学院计算技术研究所，博士生三年级)<br/>刘威丁 (北京开源芯片研究院/南京理工大学，硕士生二年级) | TBA | TBA |
 | 10:00 | 20' | 面向服务器的香山处理器多核解决方案 | 丁昊楠 (中国科学院计算技术研究所，芯片设计工程师) | TBA | TBA |
 | 10:20 | 20' | 万众一芯：基于开源众包芯片验证的探索与实践 | 姚治成 (中国科学院计算技术研究所，工程师) | TBA | TBA |
 | 10:40 | 20' | 香山缓存系统的形式化验证 | 陈韬宇 (中国科学院软件研究所，计算机 硕士生一年级) | TBA | TBA |
-| 11:00 | 5' | _休息_ |  | TBA | TBA |
+| 11:00 | 5' | _休息_ |  | - | - |
 | 11:05 | 5' | 乘影开源 GPGPU 介绍 | 何虎 (清华大学集成电路学院，副教授) | TBA | TBA |
 | 11:10 | 10' | “乘影”：开源通用 GPU 指令集架构介绍 | 于芳菲 (清华大学集成电路学院，硕士二年级研究生) | TBA | TBA |
 | 11:20 | 10' | 基于 RISC-V 向量拓展的高性能开源 GPGPU 设计 | 沈贽 (苏州国芯科技股份有限公司，CPU 研发总监) | TBA | TBA |
 | 11:30 | 10' | 详解开源乘影 GPGPU OpenCL 编译器技术栈 | 伍华林 (兆松科技，联合创始人兼 CTO) | TBA | TBA |
 | 11:40 | 10' | 开源通用 GPU “乘影” v2.1.0 基于 Chisel HDL 的硬件开发进展 | 马鸣远 (清华大学集成电路学院，博士一年级研究生) | TBA | TBA |
 | 11:50 | 10' | 乘影开源 GPGPU 软件工具链介绍 | 孔荔 (清华大学，软件工程师) | TBA | TBA |
-| 12:00 | 60' | _午餐、展区_ |  | TBA | TBA |
+| 12:00 | 60' | _午餐、展区_ |  | - | - |
 | 13:00 | 15' | All-in-one RISC-V AI Compute Engine for Software Enabled Everything | Volker Politz (Chief Sales Officer, Semidynamics) | TBA | TBA |
 | 13:15 | 15' | RISC-V Certification: Applying Advanced RISC-V Core and SoC Verification Towards the Anticipated Certification Requirements | David Kelf (CEO, Breker Verification Systems) | TBA | TBA |
 | 13:30 | 15' | TBD |  | TBA | TBA |
@@ -104,7 +104,7 @@ Repo for uploading slides and other materials of RISC-V Summit China 2024
 | 15:30 | 10' | 用高效的 ARC-V 处理器轻松驾驭汽车应用中的实时工作负载 | 裴亚强 (新思科技，资深处理器应用工程师) | TBA | TBA |
 | 15:40 | 10' | RISC-V SoC 敏捷设计云平台 & 面向车规等领域的核生成 | 赵华龙 (北京开源芯片研究院，研发总监) | TBA | TBA |
 | 15:50 | 10' | RISC-V Crypto Vector 扩展指令在车载 MCU HSM 模块中的应用 | 王海军 (亿咖通科技，资深技术专家) | TBA | TBA |
-| 16:00 | 30' | _茶歇_ |  | TBA | TBA |
+| 16:00 | 30' | _茶歇_ |  | - | - |
 | 16:30 | 20' | TBA |  | TBA | TBA |
 | 16:50 | 10' | 青稞RISC-V内核USB/蓝牙/以太网芯片——专业接口技术助力RISC-V落地开花 | 陶玉凯 (南京沁恒微电子股份有限公司，产品开发工程师) | TBA | TBA |
 | 17:00 | 10' | 高性能 RISC-V DSP，助力先进制造出海 | 张伟杰 (北京中科昊芯科技有限公司，FAE) | TBA | TBA |
@@ -119,7 +119,7 @@ Repo for uploading slides and other materials of RISC-V Summit China 2024
 
 |Time|Duration|Title|Speakers|Video|Slides|
 |:---|:-------|:----|:-------|:----|:-----|
-| 08:30 | 30' | _签到_ |  | TBA | TBA |
+| 08:30 | 30' | _签到_ |  | - | - |
 | 09:00 | 20' | OpenJDK on RISC-V Update | 杨飞 (中科院软件所 PLCT 实验室，研发工程师，OpenJDK Reviewer & OpenJDK RISC-V Port Project Leader) | TBA | TBA |
 | 09:20 | 20' | 基于 RISC-V 的 Chromium 浏览器性能优化实践 | 李扬 (阿里巴巴达摩院 RISC-V 及生态，技术专家) | TBA | TBA |
 | 09:40 | 20' | LLVM 工具链 RISC-V 回顾与展望 | 肖玮 (英特尔，编译器性能优化架构师) | TBA | TBA |
@@ -130,7 +130,7 @@ Repo for uploading slides and other materials of RISC-V Summit China 2024
 | 11:20 | 20' | Benchmarking RISC-V Hardware & Emulator using Cloud-V | Bilal Zafar (10xEngineers, CEO) | TBA | TBA |
 | 11:40 | 10' | Enabling Hardware Sampling Based PGO for RISC-V Platform | Yichuan Gao（高一川） (Intel Labs China, CPU Research Scientist) | TBA | TBA |
 | 11:50 | 10' | RVV 编译选项对性能影响的探索 | 徐凯亮 (上海交通大学，计算机专业博士一年级) | TBA | TBA |
-| 12:00 | 60' | _午餐_ |  | TBA | TBA |
+| 12:00 | 60' | _午餐_ |  | - | - |
 | 13:00 | 20' | RISC-V Android 的产品化探索 | 毛晗 (阿里巴巴达摩院，技术专家) | TBA | TBA |
 | 13:20 | 20' | RT-Thread 助力全球开发者共建 RISC-V 嵌入式操作系统生态 | 王顺 (上海睿赛德电子科技有限公司，RT-Thread 嵌入式软件工程师) | TBA | TBA |
 | 13:40 | 10' | Debian riscv64 移植的最新进展 | 于波 (中国科学院软件研究所，PLCT 工程师) | TBA | TBA |
@@ -139,7 +139,7 @@ Repo for uploading slides and other materials of RISC-V Summit China 2024
 | 14:30 | 20' | 由 deepin 视角，看 RISC-V 桌面生态的未来 | 杨畅 (deepin 开源社区（统信软件）系统研发工程师) | TBA | TBA |
 | 14:50 | 20' | HVP: Hardware Accelerated RISC-V Android Emulator | Haicheng Li (Intel, System Software Architect)<br/>Qingshun Wang (Intel, System Software Engineer) | TBA | TBA |
 | 15:10 | 10' | 轻量级鸿蒙结合 RISC-V 的快速应用方法 | 王宜怀 (苏州大学，教授) | TBA | TBA |
-| 15:20 | 30' | _休息_ |  | TBA | TBA |
+| 15:20 | 30' | _休息_ |  | - | - |
 | 15:50 | 20' | Introducing RISC-V Platform Management Interface (RPMI) | Tan Ley Foon (StarFive Technology, Associate Principal Engineer)<br/>Rahul Pathak (Ventana Microsystems, Staff Software Engineer) | TBA | TBA |
 | 16:10 | 20' | RISC-V 服务器级 CPU 关键技术实践 | 费晓龙 (进迭时空（杭州）科技有限公司，CPU 研发总监) | TBA | TBA |
 | 16:30 | 20' | High Area Efficiency IOPMP Design in a Large-Scale System | 辜善群 (晶心科技股份有限公司，副处长) | TBA | TBA |
@@ -154,7 +154,7 @@ Repo for uploading slides and other materials of RISC-V Summit China 2024
 
 |Time|Duration|Title|Speakers|Video|Slides|
 |:---|:-------|:----|:-------|:----|:-----|
-| 08:30 | 30' | _签到_ |  | TBA | TBA |
+| 08:30 | 30' | _签到_ |  | - | - |
 | 09:00 | 20' | 可抵御缓存侧信道攻击的随机化缓存设计 | 宋威 (中国科学院信息工程研究所 网络空间安全防御重点实验室) | TBA | TBA |
 | 09:20 | 20' | SeChain: 基于国密算法的 RISC-V 安全启动机制设计与实现 | 芮志清 (中国科学院软件研究所在读博士研究生) | TBA | TBA |
 | 09:40 | 20' | 安全加解密算子 RVK 性能优化 | 舒卓 (芯来科技，嵌入式软件工程师) | TBA | TBA |
@@ -166,7 +166,7 @@ Repo for uploading slides and other materials of RISC-V Summit China 2024
 | 11:10 | 20' | “计算机组成与设计”课程实践：基于 RVfpga 的量化研究 | 刘鹏 (浙江大学，教授) | TBA | TBA |
 | 11:30 | 10' | PySpike: RISC-V 指令集模拟器的 Python 语言集成 | 刘禹 (无锡中微亿芯有限公司，资深软件工程师) | TBA | TBA |
 | 11:40 | 20' | tinyRV: 一种完备的 RISC-V 定制压缩指令集 | 陈名书 (兰州大学异步电路系统实验室，研究生) | TBA | TBA |
-| 12:00 | 60' | _午餐_ |  | TBA | TBA |
+| 12:00 | 60' | _午餐_ |  | - | - |
 | 13:00 | 10' | 开源芯片社区 OChip: 香山贡献者机制发布 | 安旭 (北京开源芯片研究院，副总监) | TBA | TBA |
 | 13:10 | 20' | RISC-V 芯片创新应用与生态 | 刘勇 (深圳华秋电子有限公司，电子发烧友平台社区运营负责人) | TBA | TBA |
 | 13:30 | 20' | 驱动数智未来，推动 RISC-V 高性能计算产品落地与创新 | 孙彦邦 (进迭时空（杭州）科技有限公司，创始人、总裁) | TBA | TBA |
@@ -188,3 +188,29 @@ Repo for uploading slides and other materials of RISC-V Summit China 2024
 | 17:20 | 10' | 基于 FPGA 加速的 RISC-V 处理器敏捷验证框架 | 徐烁翔 (上海科技大学，计算机科学与技术 研二) | TBA | TBA |
 | 17:30 | 10' | DUET: 一种基于 FPGA 加速的软硬件联合 Difftest 芯片验证框架 | 张寿林 (郑州大学，计算机技术 研究生二年级) | TBA | TBA |
 | 17:40 | 10' | 面向 RISC-V 指令集扩展的软硬件协同验证框架 | 蒋子健 (中国科学院大学，计算机科学与技术 研一) | TBA | TBA |
+
+## POSTER
+
+|Title|Authors|File|
+|:----|:------|:---|
+| Building RISC-V containers on VisionFive v2 | Leon Nunes (Personal/RISC-V Devboard program, Customer Success Engineer) | TBA |
+| RISC-V AI Edge: 一站式 AI 边缘计算开发平台 | 张萌 (兆松科技（武汉）有限公司，软件工程师)<br/>雷依钒 (兆松科技（武汉）有限公司，软件工程师) | TBA |
+| 嵌入式技术与智能系统期刊征文 | 何小庆 (嵌入式系统联谊会，秘书长) | TBA |
+| Developing applications with RISC-V base and custom ISA extensions | Niklas Källman (IAR Systems, Senior Product Manager for RISC-V Solutions) | TBA |
+| 再论将 GraalVM 作为自由和开源 EDA 软件的通用运行时 | 李枫 (独立开发者) | TBA |
+| Porting Latest AOSP (Android 15) | 梁宇宁 (深度数智，高级工程师) | TBA |
+| The case for using QEMU on the Cloud-V platform for RV64GC over current RISC-V hardware using SPECCPU2017 as a benchmark | M. Moiz Hussain (10xEngineers, Cloud-V, University of Engineering and Technology)<br/>Ali Tarig (10xEngineers, Cloud-V, University of Engineering and Technology)<br/>Umer Shahid (10xEngineers, Cloud-V, University of Engineering and Technology) | TBA |
+| openEuler RISC-V 运行时生态建设进展 | 张定立 (中国科学院软件研究所，工程师) | TBA |
+| openEuler LLVM 平行宇宙计划 RISC-V 架构进展同步与后续计划 | 周嘉诚 (中国科学院软件研究所，工程师) | TBA |
+| MilkV-Duo 小核管理 - 热插拔，热更新，高效通信 | 罗君 (四川大学，2021 级计算机科学与技术) | TBA |
+| 在 RISC-V 设备上加速边端大模型的探索 | 黄知柏 (上海交通大学，电子信息-博士一年级) | TBA |
+| TeleBox: RISC-V 边缘 AI 盒子 | 梁致远 (中国电信研究院，研究员) | TBA |
+| 基于 RISC-V 服务器的寒武纪 MLU370 智能加速卡适配 | 刘雨冬 (中国科学院软件研究所) | TBA |
+| 赛昉在 riscv 工业应用上的探索与实现 | 罗佳维 (广东赛昉科技有限公司，软件工程师) | TBA |
+| 嵌入式RISC-V+AI在汽车场景的应用 | 刘俊 (奕斯伟计算，资深产品经理) | TBA |
+| Short Forward Branch 技术在 S500 上的软硬件协同优化 | 赵坤鹏 (奕斯伟计算，资深硬件工程师)<br/>王超 (奕斯伟计算，资深硬件工程师) | TBA |
+| 高性能 RISC-V 处理器中的 trace 实现 | 杨成章 (奕斯伟计算，资深硬件工程师) | TBA |
+| R500A/R520A - 功能安全 RISC-V 处理器 | 王晓耕 (奕斯伟计算，资深硬件工程师) | TBA |
+| E100 - 极低成本 RISC-V 处理器 | 岳航博 (奕斯伟计算，高级硬件工程师) | TBA |
+| Debug tools: SOC 软件快照及恢复 | 徐航 (奕斯伟计算，高级软件工程师) | TBA |
+| Hassert: 基于断言与 FPGA 加速的敏捷验证框架 | 张子卿 (中国科学院计算技术研究所，中国)<br/>翁伟杰 (厦门理工学院，中国)<br/>李雅宁 (都柏林大学，爱尔兰)<br/>蔡礼嘉 (香港科技大学，香港特别行政区)<br/>王浩宇 (浙江大学，中国)<br/>David Boland (悉尼大学，澳大利亚)<br/>包云岗 (中国科学院计算技术研究所，中国)<br/>石侃 (中国科学院计算技术研究所，中国) | TBA |
